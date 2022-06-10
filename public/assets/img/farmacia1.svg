@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="150"
+   viewBox="0 0 79.374998 39.687501"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="farmacia1.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.3102506"
+     inkscape:cx="188.51356"
+     inkscape:cy="114.10031"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     height="150px">
+    <sodipodi:guide
+       position="-36.549942,63.924566"
+       orientation="1,0"
+       id="guide1477" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1">
+    <rect
+       style="opacity:1;fill:#45b3d4;fill-opacity:1;stroke-width:0.209833;stroke-opacity:0"
+       id="rect1186"
+       width="80.55764"
+       height="41.144993"
+       x="-0.35402253"
+       y="0.02440919" />
+    <path
+       id="path3266"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.275822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32.280717,6.5810181 c -0.680384,0.0061 -1.351807,0.103152 -1.990577,0.3105637 -2.427748,0.7883047 -4.910233,2.7126125 -5.855973,5.2672432 -1.100084,2.97155 -0.282063,6.666837 1.009241,9.546076 2.898679,6.46323 14.13557,15.142419 14.13557,15.142419 0,0 11.236378,-8.679189 14.135055,-15.142419 1.291304,-2.879239 2.109843,-6.574526 1.009758,-9.546076 -0.94574,-2.5546307 -3.428224,-4.4789385 -5.855972,-5.2672432 -2.044063,-0.6637174 -4.42187,-0.1985967 -6.360853,0.7682687 -1.212046,0.6043817 -2.927988,2.9624375 -2.927988,2.9624375 0,0 -1.715942,-2.3580558 -2.927985,-2.9624375 C 35.317943,6.9951298 33.77756,6.5676041 32.280717,6.5810181 Z" />
+  </g>
+</svg>
